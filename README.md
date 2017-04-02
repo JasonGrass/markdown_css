@@ -16,7 +16,7 @@ Markdown css
 * **CSS学习笔记**  
 [https://www.zybuluo.com/xudongh/note/364235](https://www.zybuluo.com/xudongh/note/364235)
 
-* css样式大全(整理版） 
+* css样式大全(整理版）   
 [http://www.cnblogs.com/laihuayan/archive/2012/07/27/2611111.html](http://www.cnblogs.com/laihuayan/archive/2012/07/27/2611111.html)
 
 
